@@ -12,6 +12,7 @@
     "minimum": 14,
     "verified": 14
   },
+  "download": "https://github.com/Crashanikilator/custom-foundry-favicon/releases/download/v1.1.0/custom-foundry-favicon-v14.zip",
   "esmodules": [
     "scripts/favicon.js"
   ]
